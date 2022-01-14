@@ -1,5 +1,9 @@
 # keyinputtest
 
+Used to test;
+https://github.com/starfish01/workKeyInput
+
+https://login-chrome-extension.patricklabes.com.au/
 ## Project setup
 ```
 npm install
